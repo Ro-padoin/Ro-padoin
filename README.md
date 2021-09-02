@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ro Padoin
-- 👀 I’m interested in desenvolvimento WEB.
-- 🌱 I’m currently learning desenvolvimento WEB.
+- 👀 I’m interested in Development WEB.
+- 💻 I'm a student Development WEB at Trybe.
+- 🚀 I'm a Tryber!
 - 📫 How to reach me: padoinrosalia@gmail.com / koxelinho@icloud.com
 
 
