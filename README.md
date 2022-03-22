@@ -16,6 +16,6 @@
  
  </br>
 
-![Estatísticas do GitHub do Ro-Padoin](https://github-readme-stats.vercel.app/api?username=Ro-padoin&count_private=true&show_icons=true&theme=outrun)
+![Estatísticas do GitHub do Ro-Padoin](https://github-readme-stats.vercel.app/api?username=Ro-padoin&count_private=true&show_icons=true&theme=outrun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-padoin&layout=compact)](https://github.com/Ro-padoin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ro-padoin&layout=compact)](https://github.com/Ro-padoin/github-readme-stats)
+Reference for creating Readme Stats: @anuraghazra.
