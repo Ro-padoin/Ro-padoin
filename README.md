@@ -29,8 +29,6 @@ Sou formada em Administração e minha experiência profissional foi construída
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) <br>
 ![Docker](https://img.shields.io/badge/docker-%231572B6.svg?style=for-the-badge&logo=docker&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-I have a degree in Business Administration and my entire professional trajectory has been based on this area, working from higher education institutions and financial institutions, in operational, business and leadership positions.
-
 <hr/>
 
 </br>
