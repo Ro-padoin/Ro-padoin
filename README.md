@@ -4,14 +4,16 @@ Olá!
 
 Sou estudante de Desenvolvimento de Software Full Stack na instituição de ensino Trybe.
 
-Decidi por uma transição de carreira no ano de 2020 e com com isso iniciei a procura por uma área para atuar profissionalmente.
-Assim, fui incentivada e encorajada a olhar para a área de tecnologia com carinho, pois sempre gostei da área mas pensava que talvez eu não conseguiria aprender ou aplicar os conhecimentos (hoje penso que era muito mais medo da mudança do que realmente a sensação de incapacidade).
-Mas resolvi me desafiar, olhei para área com carinho e me apaixonei. 
-Descobri que, além de conseguir aprender e aplicar, a tecnologia me motiva, me tira da zona de conforto e aguça a minha busca por mais conhecimento. Me ensina muito mais do que somente desenvolver códigos.
+Optei por uma transição de carreira no ano de 2020 e com com isso iniciei a procura por uma área para atuar profissionalmente.
+Assim, fui incentivada e encorajada a ingressar na area de tecnologia, pois ela poderia me proporcionar o que estava buscando: desafio, aprendizado constante e encontrar soluções. 
 
-No momento, estou no Módulo  de Desenvolvimento Back End, onde estou vendo e aplicando conteudos sobre: Docker, SQL, Node.js, TypeScript, POO, MongoDB entre outros,
+Busquei uma instituição que pudesse me proporcionar um aprendizado intensivo e também me preparar para essa nova jornada e encontrei a Trybe que é uma escola que além de trazer a teoria, baseia sua rotina de estudos por meio de muita prática em projetos individuais e em grupos, possibilitando nosso desenvolvimento tanto em hardSkills quanto em softSkills.   
 
-Sou Desenvolvedora de Software Front End Júnior, por consequência da conclusão dos Módulos de Fundamentos da WEB e Desenvolvimento Front End.
+Hoje sou uma pessoa totalmente apaixonada por essa área feliz por ter escolhido este caminho.
+
+Já conclui os módulos de Fundamentos e Frontend e com isso sou Desenvolvedora de Software Frontend Junior, com pretensão de atuar como FullStack.
+
+No momento, estou no Módulo  de Desenvolvimento Backend, onde estou vendo e aplicando conteudos sobre: Docker, SQL, Node.js, TypeScript, POO, MongoDB entre outros.
 
 Sou formada em Administração e minha experiência profissional foi construída na mesma área, atuando em instituições de ensino superior e instituições financeiras, nos cargos operacionais, negócios e liderança.
 
