@@ -9,7 +9,7 @@ E após conhecer mais a área de desenvolvimento, identifiquei nela os beneficio
 
 Busquei uma instituição que pudesse me proporcionar um aprendizado intensivo e também me preparar para essa nova jornada e encontrei a Trybe que é uma escola que além de trazer a teoria, baseia sua rotina de estudos por meio de muita prática em projetos individuais e em grupos, possibilitando nosso desenvolvimento tanto em hardSkills quanto em softSkills.   
 
-Já conclui os módulos de Fundamentos e Frontend e com isso sou Desenvolvedora de Software Frontend Junior, estou em fase de conclusão do Modulo de Backend, onde é a área de desenvolvimento que possuo mais afinidade e pretendo seguir.
+Já conclui os módulos de Fundamentos e Frontend e já tive a oportunidade de atuar como Summer de Instrução ministrando monitorias individuais e em grupos sobre os conteudos e projetos, destes módulos, para turmas ingressantes no curso, estou em fase de conclusão do Modulo de Backend, onde é a área de desenvolvimento que possuo mais afinidade e pretendo seguir.
 
 No módulo atual estou vendo e aplicando conteudos sobre: Docker, SQL, Node.js, TypeScript, POO, MongoDB entre outros.
 
