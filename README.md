@@ -5,7 +5,7 @@ Olá!
 Sou estudante de Desenvolvimento de Software Full Stack na instituição de ensino Trybe.
 
 Optei por uma transição de carreira no ano de 2020 e com com isso iniciei a procura por uma área para atuar profissionalmente.
-Assim, conhecendo a área de desenvolvimento identifiquei que ela poderia me trazer os beneficios e desafios que eu buscava e meu interesse ficando cada vez maior a cada conteúdo que eu consumia. 
+E após conhecer mais a área de desenvolvimento, identifiquei nela os beneficios e desafios que buscava e meu interesse foi ficando cada vez maior a cada conteúdo que eu consumia. 
 
 Busquei uma instituição que pudesse me proporcionar um aprendizado intensivo e também me preparar para essa nova jornada e encontrei a Trybe que é uma escola que além de trazer a teoria, baseia sua rotina de estudos por meio de muita prática em projetos individuais e em grupos, possibilitando nosso desenvolvimento tanto em hardSkills quanto em softSkills.   
 
