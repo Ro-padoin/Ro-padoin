@@ -5,15 +5,15 @@ Olá!
 Sou estudante de Desenvolvimento de Software Full Stack na instituição de ensino Trybe.
 
 Optei por uma transição de carreira no ano de 2020 e com com isso iniciei a procura por uma área para atuar profissionalmente.
-Assim, fui incentivada e encorajada a ingressar na area de tecnologia, pois ela poderia me proporcionar o que estava buscando: desafio, aprendizado constante e encontrar soluções. 
+Assim, conhecendo a área de desenvolvimento identifiquei que ela poderia me trazer os beneficios e desafios que eu buscava e meu interesse ficando cada vez maior a cada conteúdo que eu consumia. 
 
 Busquei uma instituição que pudesse me proporcionar um aprendizado intensivo e também me preparar para essa nova jornada e encontrei a Trybe que é uma escola que além de trazer a teoria, baseia sua rotina de estudos por meio de muita prática em projetos individuais e em grupos, possibilitando nosso desenvolvimento tanto em hardSkills quanto em softSkills.   
 
 Hoje sou uma pessoa totalmente apaixonada por essa área feliz por ter escolhido este caminho.
 
-Já conclui os módulos de Fundamentos e Frontend e com isso sou Desenvolvedora de Software Frontend Junior, com pretensão de atuar como FullStack.
+Já conclui os módulos de Fundamentos e Frontend e com isso sou Desenvolvedora de Software Frontend Junior, estou em fase de conclusão do Modulo de Backend, onde é a área de desenvolvimento que possuo mais afinidade e pretendo seguir.
 
-No momento, estou no Módulo  de Desenvolvimento Backend, onde estou vendo e aplicando conteudos sobre: Docker, SQL, Node.js, TypeScript, POO, MongoDB entre outros.
+No módulo atual estou vendo e aplicando conteudos sobre: Docker, SQL, Node.js, TypeScript, POO, MongoDB entre outros.
 
 Sou formada em Administração e minha experiência profissional foi construída na mesma área, atuando em instituições de ensino superior e instituições financeiras, nos cargos operacionais, negócios e liderança.
 
